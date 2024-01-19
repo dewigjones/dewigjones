@@ -16,27 +16,6 @@ I'm Dewi! I'm in my final year of studying Computer Science at the University of
     * Digital Forenscis
     * Mobile Robotics
 
----
-### Helo 'na 👋
-Dewi ydw i! Rwy' yn fy mlwyddyn olaf o ystydio Cyfrifiadureg ym Mhrifysgol Warwick ac yn wreiddiol o Faesteg, De Cymru. Mae gen i ddiddordeb mewn:
- * Amgryptiad Hollol Homomorffig (FHE)
- * Crynhoyddion
- * Saernïaeth Cyfrifiaduron (Yn enwedig hen gonsolau gemau)
- * Graffeg ac Unedau Prosesu Graffeg
- * Technoleg Cymraeg a Chymreig
-
-### Ar hyn o bryd rwy'n gweithio ar: 
-* Fy Mhrosiect Trydydd Blwyddyn - "System Argymmell Sydd yn Cadwoli Preifatrwydd"
-
-* Astudio modiwilau:
-    * Darlyniad Crynhoyddion
-    * Rhwydweithiau Synhwyrydd 
-    * Egwyddorion Ieithoedd Rhaglennu
-    * Cyfrifo Niwral
-    * Fforensig Ddigidol
-    * Roboteg Symudol
-
-
 
 <!--
 **dewigjones/dewigjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
