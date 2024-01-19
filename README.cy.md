@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-green
+)](https://github.com/dewigjones/dewigjones/blob/main/README.md)
 ### Helo 'na 👋
 Dewi ydw i! Rwy' yn fy mlwyddyn olaf o ystydio Cyfrifiadureg ym Mhrifysgol Warwick ac yn wreiddiol o Faesteg, De Cymru. Mae gen i ddiddordeb mewn:
  * Amgryptiad Hollol Homomorffig (FHE)

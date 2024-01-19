@@ -1,3 +1,5 @@
+[![cy](https://img.shields.io/badge/lang-cy-red
+)](https://github.com/dewigjones/dewigjones/blob/main/README.cy.md)
 ### Hi there 👋
 I'm Dewi! I'm in my final year of studying Computer Science at the University of Warwick and I'm originally from Maesteg in South Wales. I'm particularly interested in:
 * Fully Homomorphic Encryption (FHE)
