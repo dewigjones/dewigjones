@@ -1,20 +1,20 @@
 [![en](https://img.shields.io/badge/lang-en-green
 )](https://github.com/dewigjones/dewigjones/blob/main/README.md)
 ### Helo 'na 👋
-Dewi ydw i! Rwy' yn fy mlwyddyn olaf o ystydio Cyfrifiadureg ym Mhrifysgol Warwick ac yn wreiddiol o Faesteg, De Cymru. Mae gen i ddiddordeb mewn:
- * Amgryptiad Hollol Homomorffig (FHE)
- * Crynhoyddion
- * Saernïaeth Cyfrifiaduron (Yn enwedig hen gonsolau gemau)
+Dewi ydw i! Rwy' ym mlwyddyn olaf fy astudiaethau  Cyfrifiadureg ym Mhrifysgol Warwick ac yn wreiddiol o Faesteg, De Cymru. Mae gen i ddiddordeb mewn:
+ * Amgryptio Cwbl Homomorffig (FHE) 
+ * Crynoyddion
+ * Saernïaeth Gyfrifiadurol (Yn enwedig hen gonsolau gemau)
  * Graffeg ac Unedau Prosesu Graffeg
- * Technoleg Cymraeg a Chymreig
+ * Technoleg Gymreig ac iaith Gymraeg
 
 ### Ar hyn o bryd rwy'n gweithio ar: 
-* Fy Mhrosiect Trydydd Blwyddyn - "System Argymmell Sydd yn Cadwoli Preifatrwydd"
+* Fy Mhrosiect Trydedd Flwyddyn - "System  Argymhellion sy’n Diogelu Preifatrwydd"
 
-* Astudio modiwilau:
-    * Darlyniad Crynhoyddion
-    * Rhwydweithiau Synhwyrydd 
+* Astudio modiwlau:
+    * Cynllunio Crynoyddion
+    * Rhwydweithiau Synwyryddion 
     * Egwyddorion Ieithoedd Rhaglennu
-    * Cyfrifo Niwral
+    * Cyfrifadura Niwral
     * Fforensig Ddigidol
     * Roboteg Symudol
